@@ -55,10 +55,10 @@ header#page-header {
 }
 #site-name a, #site-name a:visited {
 	text-decoration: none;
-	color: #CE1126;	
+	color: #ffd000;	
 }
 #site-name a:hover {
-	color: #CE1126;	
+	color: #ffd000;	
 }
 #fleurdelis {
 	float:left;
@@ -71,7 +71,7 @@ header#page-header {
 	width: 33%;
 	float: right;
 	text-align: right;
-	color: #005A9C;	
+	color: #003F87;	
 	padding-right:5px;
 } 
 
@@ -119,7 +119,7 @@ footer {
 	width: 96.5%;
 	padding: 10px 1.75% 10px 1.75%;
 	margin-top: 15px;
-	background-color: #005A9C;
+	background-color: #003F87;
 	color: #efefef;
 	clear:both;
 	font-size: 85%;
@@ -139,10 +139,10 @@ footer div div div li {
 /* -------------------- Search Box --------------------*/
 form.search-form {
 	margin-bottom: 25px;
-	background-color: #005A9C;
+	background-color: #003F87;
 	color:white;
 	padding:5px;
-	border:1px solid #005A9C;
+	border:1px solid #003F87;
 	border-radius: 3px;
 	font-weight:bold;
 }
@@ -185,35 +185,35 @@ h1,h2 {
 	font-size: 190%;
 	line-height: 130%;
 	margin: 0 0 10px 0;
-	color: #005A9C;
+	color: #003F87;
 }
 h3 {
 	font-family: marcellusregular, Marcellus, "Trajan Pro", serif;
 	font-size: 170%;
 	line-height: 130%;
 	margin: 0 0 10px 0;
-	color: #005A9C;
+	color: #003F87;
 }
 h4 {
 	font-family: marcellusregular, Marcellus, "Trajan Pro", serif;
 	font-size: 150%;
 	line-height: 130%;
 	margin: 0 0 10px 0;
-	color: #005A9C;
+	color: #003F87;
 }
 h5 {
 	font-family: marcellusregular, Marcellus, "Trajan Pro", serif;
 	font-size: 130%;
 	line-height: 130%;
 	margin: 0 0 7px 0;
-	color: #CE1126;
+	color: #ffd000;
 }
 h6 {
 	font-family: marcellusregular, Marcellus, "Trajan Pro", serif;
 	font-size: 110%;
 	line-height: 130%;
 	margin: 0 0 5px 0;
-	color: #CE1126;
+	color: #ffd000;
 }
 
 /* ------------------ Required by WordPress ----------------*/
@@ -270,7 +270,7 @@ p.wp-caption-text, figure {
 	color:black;
 }
 .gallery-caption {
-	color: #005A9C;
+	color: #003F87;
 }
 .sticky {
 	background-color: #FCFCFC;
@@ -294,19 +294,19 @@ table {
 	margin: 10px 0 17px 0;
 	border-collapse:collapse;
 }
-table, td, th {border: 1px solid #005A9C;}
+table, td, th {border: 1px solid #003F87;}
 th {
 	color: #fff;
-	background-color: #005A9C;
+	background-color: #003F87;
 }
 td, th {padding: 5px;}
 
 /* -------------------- Blockquotes --------------------*/
 blockquote {
 	background-color: #F1EADA;
-	color: #005A9C;
+	color: #003F87;
 	margin: 15px 35px 17px 35px;
-	border-left: 4px solid #CE1126;
+	border-left: 4px solid #ffd000;
 	padding: 10px;
 	font-size: 150%;
 	line-height: 120%;
@@ -342,9 +342,9 @@ blockquote {
 #wrapper sup {font-size: 75%;vertical-align: super;}
 #wrapper sub {font-size: 75%;vertical-align: sub;}
 #wrapper cite, #wrapper i {font-style: italic;}
-#wrapper abbr {border-bottom: 1px dotted #CE1126;}
+#wrapper abbr {border-bottom: 1px dotted #ffd000;}
 #wrapper del {text-decoration: line-through;}
-#wrapper ins {color: #CE1126;text-decoration: underline;}
+#wrapper ins {color: #ffd000;text-decoration: underline;}
 #wrapper pre {
 	font-family: monospace;
 	font-size: 100%;
@@ -359,7 +359,7 @@ blockquote {
 	display: block;
 	margin: 10px;
 	padding: 5px;
-	border-left: 4px solid #CE1126;
+	border-left: 4px solid #ffd000;
 	line-height: 100%;
 }
 #wrapper var {
@@ -369,8 +369,8 @@ blockquote {
 }
 hr {
 	height: 1px;
-	color: #005A9C;
-	background-color: #005A9C;
+	color: #003F87;
+	background-color: #003F87;
 	margin: 15px 0 15px 0;
 	border:0;
 }
@@ -405,11 +405,11 @@ img {
    Links
 	 ------------------------------------------------------*/	 
 #wrapper a, #wrapper a:visited {
-	color: #005A9C;
+	color: #003F87;
 	text-decoration: underline;
 }	 
 #wrapper a:hover, #wrapper a:active {
-	color: #CE1126;
+	color: #ffd000;
 } 
 #wrapper footer a, #wrapper footer a:visited {
 	text-decoration: none;
@@ -479,10 +479,10 @@ img {
 	}
 	#site-name a, #site-name a:visited {
 	text-decoration: none;
-	color: #005A9C;	
+	color: #003F87;	
 	}
 	#site-name a:hover {
-		color: #005A9C;	
+		color: #003F87;	
 	}
 	#fleurdelis, #brand, #logo {
 		display: none;
@@ -528,7 +528,7 @@ img {
 		margin: 0 auto 0 auto;
 	}
 	#content-wide, #front-first, .content-third:first-child, .content-third:nth-child(2) {
-		border-bottom: 1px dotted #005A9C;
+		border-bottom: 1px dotted #003F87;
 		padding-bottom: 4px;
 		margin-bottom: 15px;
 	}
@@ -547,7 +547,7 @@ img {
 	width: 100%;
 	padding: 10px 0 10px 0;
 	margin-top: 15px;
-	background-color: #005A9C;
+	background-color: #003F87;
 	color: #efefef;
 	clear:both;
 	text-align:center;
@@ -607,12 +607,13 @@ img {
   z-index: 200;
   overflow: hidden;
   color: #ffffff;
-  background: #005A9C;
+  background: #003F87;
   border-bottom: 1px solid rgba(0, 0, 0, 0.15); 
 	text-decoration: none;
 }
 .flexnav li a:hover {
-	background: #CE1126;
+	background: #ffd000;
+	color: #003F87;
 }
 .flexnav li ul {
 	position:relative;
@@ -629,13 +630,13 @@ img {
 }
 .flexnav li ul li a {
   display: block;
-  background: #0065AD; 
+  background: #003F87; 
 }
 .flexnav ul li ul li a {
-  background: #0071C2; 
+  background: #003F87; 
 }
 .flexnav ul li ul li ul li a {
-  background: #007DD6; 
+  background: #003F87; 
 }
 .flexnav .touch-button {
   position: absolute;
@@ -694,7 +695,7 @@ img {
 @media all and (min-width: 767px) {
 	#main-navigation {
 		width: 100%;
-		background-color: #005A9C;
+		background-color: #003F87;
 		height: 40px;
 	}
 	#main-navigation nav {
@@ -724,7 +725,7 @@ img {
 		list-style: none;
 		float: left;
 		display: block;
-		background-color: #005A9C;
+		background-color: #003F87;
 		overflow: visible;
 		text-align: center;
 		white-space: nowrap;
@@ -733,16 +734,16 @@ img {
 		max-width: 17%;
 	}
 	.flexnav li a {
-		border-left: 1px solid #0065AD;
+		border-left: 1px solid #003F87;
 		border-bottom: none; 
 		overflow: visible;
   	padding: .75em 0 .75em 0;
 	}
 	.flexnav > li:last-child > a, .flexnav li li a {
-		border-right: 1px solid #0065AD;
+		border-right: 1px solid #003F87;
 	}
 	.flexnav li li {
-		border-bottom: 1px solid #0065AD;
+		border-bottom: 1px solid #003F87;
 	}
 	.flexnav li li:last-child  {
 		border-bottom: 0;
@@ -847,7 +848,7 @@ div.nav-next a, div.nav-previous a, div.nav-next a:visited, div.nav-previous a:v
 	text-decoration:none !important;
 	display: block;
 	width: 100%;
-	background-color: #005A9C;
+	background-color: #003F87;
 	line-height:160%;
 	padding:5px;
 }
@@ -858,6 +859,6 @@ div.nav-previous a::before {
 	content: "\00ab\00a0";
 }
 div.nav-next a:hover, div.nav-previous a:hover {
-	background-color:#CE1126;
+	background-color:#ffd000;
 	color: #fff;
 }
