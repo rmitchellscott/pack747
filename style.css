@@ -891,4 +891,13 @@ div.nav-next a:hover, div.nav-previous a:hover {
 	line-height: 1.4em;
 	margin: 0;
   }
+  .iframe-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  }
   
+  .iframe-container iframe {
+	max-width: 100%;
+	max-height: 100%;
+  }
