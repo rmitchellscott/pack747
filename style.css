@@ -295,11 +295,25 @@ table {
 	border-collapse:collapse;
 }
 table, td, th {border: 1px solid #003F87;}
+.table-borderless, .table-borderless td, .table-borderless th {
+    border: none;
+}
 th {
 	color: #fff;
 	background-color: #003F87;
 }
-td, th {padding: 5px;}
+td, th {
+    padding: 2px 5px;
+    vertical-align: middle;
+}
+tr:nth-child(even) {
+    background-color: #edf5ff;
+}
+@media screen and (max-width: 576px) {
+    td, th {
+        padding: 5px;
+    }
+}
 
 /* -------------------- Blockquotes --------------------*/
 blockquote {
