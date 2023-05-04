@@ -309,7 +309,7 @@ td, th {
 tr:nth-child(even) {
     background-color: #edf5ff;
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 576px) {
     td, th {
         padding: 5px;
     }
